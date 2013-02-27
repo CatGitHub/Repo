@@ -6,6 +6,7 @@ public static void main(String[] arg) {
 		System.out.println("the first changes");
 		System.out.println("the second changes");
 		System.out.println("alpha"); 
+		System.out.println("hello from Lena");  
 	}
 
 }
