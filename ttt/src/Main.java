@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("hello from Lena");
 		KClass kClass=new KClass();
 		kClass.kMeth();
+		kClass.newCode();
 	}
 
 }
